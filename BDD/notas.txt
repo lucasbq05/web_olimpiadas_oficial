@@ -1,0 +1,21 @@
+Bibliotecas a instalar:
+
+// modulos básicos
+npm i express // EXPRESS es el servidor web
+npm i cors    // CORS es una política de peticiones HTTP que queremos habilitar
+npm i morgan  // MORGAN nos brinda mensajes de logs más descriptivos
+npm i nodemon  // NODEMON reinicia automáticamente el servidor cuando le hacemos cambios
+npm i mongoose  // Para conectar a la base de datos MONGODB
+npm i dotenv // Para utilizar variables de entorno. Nos va a servir para ocultar la contraseña de la BD
+
+// Para ejecutar la app
+npm run dev
+
+
+//Cadena de conexión
+mongodb+srv://lucasbequis84:<13579hola0>@cluster0.xrwgsj3.mongodb.net/NuevaApi?retryWrites=true&w=majority&appName=Cluster0
+
+// npm install
+instalar todas las dependencias 
+
+//Contraseña de la base de datos: 13579hola

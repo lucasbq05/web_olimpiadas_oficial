@@ -1,0 +1,4 @@
+        <div id="ticketList">
+            <button id="ticketList">Lista de tickets</button>
+            <ul id="tickets"></ul>
+        </div>
